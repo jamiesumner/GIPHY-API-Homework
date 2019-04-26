@@ -1,1 +1,1 @@
-# GIPHY-API-Homework
+This assignment uses AJAX to retrieve data from the Giphy API to display GIFs.

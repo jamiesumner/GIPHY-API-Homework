@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+  }
+  
+  .animal-item {
+    float: left;
+    padding: 5px;
+  }
+  
+  form {
+    float: right;
+    padding: 5px;
+  }
+  
+  button, #add-animal {
+    color: white;
+    background: teal;
+  }

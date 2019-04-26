@@ -85,3 +85,5 @@ $("#add-animal").on("click", function (event) {
 
 populateButtons(animals, "animal-button", "#animal-buttons");
 ;
+
+// I still need to add code so it only shows 10 GIFs
